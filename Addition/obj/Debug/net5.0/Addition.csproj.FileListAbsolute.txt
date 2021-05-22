@@ -1,0 +1,16 @@
+C:\Users\Aynadis\Desktop\The forth\Addition\bin\Debug\net5.0\Addition.exe
+C:\Users\Aynadis\Desktop\The forth\Addition\bin\Debug\net5.0\Addition.deps.json
+C:\Users\Aynadis\Desktop\The forth\Addition\bin\Debug\net5.0\Addition.runtimeconfig.json
+C:\Users\Aynadis\Desktop\The forth\Addition\bin\Debug\net5.0\Addition.runtimeconfig.dev.json
+C:\Users\Aynadis\Desktop\The forth\Addition\bin\Debug\net5.0\Addition.dll
+C:\Users\Aynadis\Desktop\The forth\Addition\bin\Debug\net5.0\ref\Addition.dll
+C:\Users\Aynadis\Desktop\The forth\Addition\bin\Debug\net5.0\Addition.pdb
+C:\Users\Aynadis\Desktop\The forth\Addition\obj\Debug\net5.0\Addition.csprojAssemblyReference.cache
+C:\Users\Aynadis\Desktop\The forth\Addition\obj\Debug\net5.0\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aynadis\Desktop\The forth\Addition\obj\Debug\net5.0\Addition.AssemblyInfoInputs.cache
+C:\Users\Aynadis\Desktop\The forth\Addition\obj\Debug\net5.0\Addition.AssemblyInfo.cs
+C:\Users\Aynadis\Desktop\The forth\Addition\obj\Debug\net5.0\Addition.csproj.CoreCompileInputs.cache
+C:\Users\Aynadis\Desktop\The forth\Addition\obj\Debug\net5.0\Addition.dll
+C:\Users\Aynadis\Desktop\The forth\Addition\obj\Debug\net5.0\ref\Addition.dll
+C:\Users\Aynadis\Desktop\The forth\Addition\obj\Debug\net5.0\Addition.pdb
+C:\Users\Aynadis\Desktop\The forth\Addition\obj\Debug\net5.0\Addition.genruntimeconfig.cache

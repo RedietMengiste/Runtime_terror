@@ -1,0 +1,16 @@
+C:\Users\Aynadis\Desktop\The forth\Subtraction\obj\Debug\net5.0\Subtraction.csprojAssemblyReference.cache
+C:\Users\Aynadis\Desktop\The forth\Subtraction\obj\Debug\net5.0\Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aynadis\Desktop\The forth\Subtraction\obj\Debug\net5.0\Subtraction.AssemblyInfoInputs.cache
+C:\Users\Aynadis\Desktop\The forth\Subtraction\obj\Debug\net5.0\Subtraction.AssemblyInfo.cs
+C:\Users\Aynadis\Desktop\The forth\Subtraction\obj\Debug\net5.0\Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Aynadis\Desktop\The forth\Subtraction\bin\Debug\net5.0\Subtraction.exe
+C:\Users\Aynadis\Desktop\The forth\Subtraction\bin\Debug\net5.0\Subtraction.deps.json
+C:\Users\Aynadis\Desktop\The forth\Subtraction\bin\Debug\net5.0\Subtraction.runtimeconfig.json
+C:\Users\Aynadis\Desktop\The forth\Subtraction\bin\Debug\net5.0\Subtraction.runtimeconfig.dev.json
+C:\Users\Aynadis\Desktop\The forth\Subtraction\bin\Debug\net5.0\Subtraction.dll
+C:\Users\Aynadis\Desktop\The forth\Subtraction\bin\Debug\net5.0\ref\Subtraction.dll
+C:\Users\Aynadis\Desktop\The forth\Subtraction\bin\Debug\net5.0\Subtraction.pdb
+C:\Users\Aynadis\Desktop\The forth\Subtraction\obj\Debug\net5.0\Subtraction.dll
+C:\Users\Aynadis\Desktop\The forth\Subtraction\obj\Debug\net5.0\ref\Subtraction.dll
+C:\Users\Aynadis\Desktop\The forth\Subtraction\obj\Debug\net5.0\Subtraction.pdb
+C:\Users\Aynadis\Desktop\The forth\Subtraction\obj\Debug\net5.0\Subtraction.genruntimeconfig.cache
