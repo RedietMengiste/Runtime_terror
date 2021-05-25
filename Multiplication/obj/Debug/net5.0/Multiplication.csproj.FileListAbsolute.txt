@@ -1,0 +1,16 @@
+C:\Users\Aynadis\Desktop\The forth\Multiplication\bin\Debug\net5.0\Multiplication.exe
+C:\Users\Aynadis\Desktop\The forth\Multiplication\bin\Debug\net5.0\Multiplication.deps.json
+C:\Users\Aynadis\Desktop\The forth\Multiplication\bin\Debug\net5.0\Multiplication.runtimeconfig.json
+C:\Users\Aynadis\Desktop\The forth\Multiplication\bin\Debug\net5.0\Multiplication.runtimeconfig.dev.json
+C:\Users\Aynadis\Desktop\The forth\Multiplication\bin\Debug\net5.0\Multiplication.dll
+C:\Users\Aynadis\Desktop\The forth\Multiplication\bin\Debug\net5.0\ref\Multiplication.dll
+C:\Users\Aynadis\Desktop\The forth\Multiplication\bin\Debug\net5.0\Multiplication.pdb
+C:\Users\Aynadis\Desktop\The forth\Multiplication\obj\Debug\net5.0\Multiplication.csprojAssemblyReference.cache
+C:\Users\Aynadis\Desktop\The forth\Multiplication\obj\Debug\net5.0\Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aynadis\Desktop\The forth\Multiplication\obj\Debug\net5.0\Multiplication.AssemblyInfoInputs.cache
+C:\Users\Aynadis\Desktop\The forth\Multiplication\obj\Debug\net5.0\Multiplication.AssemblyInfo.cs
+C:\Users\Aynadis\Desktop\The forth\Multiplication\obj\Debug\net5.0\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Aynadis\Desktop\The forth\Multiplication\obj\Debug\net5.0\Multiplication.dll
+C:\Users\Aynadis\Desktop\The forth\Multiplication\obj\Debug\net5.0\ref\Multiplication.dll
+C:\Users\Aynadis\Desktop\The forth\Multiplication\obj\Debug\net5.0\Multiplication.pdb
+C:\Users\Aynadis\Desktop\The forth\Multiplication\obj\Debug\net5.0\Multiplication.genruntimeconfig.cache
